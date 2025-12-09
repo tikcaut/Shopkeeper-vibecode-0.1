@@ -1,0 +1,5 @@
+{
+  "name": "Shopkeeper ",
+  "description": "A 2D shopkeeper simulator where you manage inventory, serve customers, and grow your retail empire. Built with React and Canvas.",
+  "requestFramePermissions": []
+}
